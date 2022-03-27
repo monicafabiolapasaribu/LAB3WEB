@@ -1,8 +1,8 @@
-###Nama    : Monica Fabiola Pasaribu
+### Nama    : Monica Fabiola Pasaribu
 
-###Nim     : 312010083
+### Nim     : 312010083
 
-###Kelas   : TI.20.D1
+### Kelas   : TI.20.D1
 
 1. Membuat Dokumen Html seperti berikut
 ![image](https://user-images.githubusercontent.com/101665497/160268245-d8b656a6-62fd-4080-a032-3a6bc626e942.png)
@@ -35,7 +35,7 @@ selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk me
 Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat hasilnya
 ![image](https://user-images.githubusercontent.com/101665497/160268613-be0d6e32-7d89-43c7-8441-80965334bd21.png)
 
-###TUGAS
+### TUGAS
 
 1.  Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection
 ![image](https://user-images.githubusercontent.com/101665497/160271110-8e3f8619-c4fc-4e9e-b128-4eb4269b08c5.png)
